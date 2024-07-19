@@ -9,3 +9,4 @@ COPY . .
 EXPOSE 8501
 
 CMD [ "streamlit" , "run", "web.py"]
+#v
